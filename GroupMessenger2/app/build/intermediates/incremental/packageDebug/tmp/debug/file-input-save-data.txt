@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Apr 01 03:59:22 EDT 2020
+0.baseType=DIRECTORY
+0.base=/Users/deep/Downloads/Spring'20/CSE586/PAs/PA2B/GroupMessenger2/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

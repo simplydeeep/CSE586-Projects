@@ -1,0 +1,4 @@
+#Sat Feb 15 16:58:56 EST 2020
+base.0=/Users/deep/Downloads/Spring'20/CSE586/PAs/PA1/SimpleMessenger/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
