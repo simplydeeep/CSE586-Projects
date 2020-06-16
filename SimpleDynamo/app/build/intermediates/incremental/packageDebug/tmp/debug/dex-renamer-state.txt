@@ -1,0 +1,4 @@
+#Sat May 09 14:16:33 PDT 2020
+base.0=/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

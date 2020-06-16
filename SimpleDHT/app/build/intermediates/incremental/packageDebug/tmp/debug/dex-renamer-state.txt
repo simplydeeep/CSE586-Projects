@@ -1,0 +1,4 @@
+#Sat May 02 15:13:26 PDT 2020
+base.0=/Users/deep/Downloads/Spring20/CSE586/PAs/PA3/SimpleDht/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

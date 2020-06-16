@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat May 02 15:13:26 PDT 2020
+0.baseType=DIRECTORY
+0.base=/Users/deep/Downloads/Spring20/CSE586/PAs/PA3/SimpleDht/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

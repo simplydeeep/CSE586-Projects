@@ -1,0 +1,57 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="edu.buffalo.cse.cse486586.simpledynamo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="19" />
+9-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml:7:5-66
+11-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml:7:22-64
+12    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+12-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml:8:5-74
+12-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml:8:22-72
+13
+14    <application
+14-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml:10:5-28:19
+15        android:allowBackup="true"
+15-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml:11:9-35
+16        android:debuggable="true"
+17        android:icon="@drawable/ic_launcher"
+17-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml:12:9-45
+18        android:label="@string/app_name"
+18-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml:13:9-41
+19        android:theme="@style/AppTheme" >
+19-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml:14:9-40
+20        <activity
+20-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml:15:9-23:20
+21            android:name="edu.buffalo.cse.cse486586.simpledynamo.SimpleDynamoActivity"
+21-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml:16:13-87
+22            android:label="@string/app_name" >
+22-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml:17:13-45
+23            <intent-filter>
+23-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml:18:13-22:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml:19:17-69
+24-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml:19:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml:21:17-77
+26-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml:21:27-74
+27            </intent-filter>
+28        </activity>
+29
+30        <provider
+30-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml:25:9-26:85
+31            android:name="edu.buffalo.cse.cse486586.simpledynamo.SimpleDynamoProvider"
+31-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml:25:19-93
+32            android:authorities="edu.buffalo.cse.cse486586.simpledynamo.provider" />
+32-->/Users/deep/Downloads/Spring20/CSE586/PAs/PA4/SimpleDynamo/app/src/main/AndroidManifest.xml:26:13-82
+33    </application>
+34
+35</manifest>
